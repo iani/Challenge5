@@ -1,7 +1,5 @@
 
-# Challenge 5 Subject and title
-
-Bodily Movement & Sounding Spaces
+# Bodily Movement & Sounding Spaces
 
 Movement-driven live sound and optional graphics—your academic challenge.
 
