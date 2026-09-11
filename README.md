@@ -54,6 +54,8 @@ https://youtu.be/xT2nPo8Hfu4?list=PL1yHvCYr9BvZs44mcmGdybH6tPu4aMLp1
 
 Izutsu (Elevsis23 Festival, Elevsis 2023). Major work, story adapted from the Noh play Izutsu. 
 https://youtu.be/HXPeVC3PqqM?list=PL1yHvCYr9BvZFqh6kf1flXM-P6x1dr2LM&t=2059
+Or skip to the beginning of sensor-driven sound:
+https://youtu.be/HXPeVC3PqqM?list=PL1yHvCYr9BvZFqh6kf1flXM-P6x1dr2LM&t=2201
 
 ## Rehearsals and Experiments
 
