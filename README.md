@@ -24,16 +24,6 @@ Other very welcome tools: Arduino with sensors of all kinds, other sound synthes
 
 Starter kit provided: SuperCollider, PureData, Godot Engine, XR-Animator.
 
-# Starter kit: Webcam Motion Capture Software, SuperCollider, Godot. BuMoChi library
-
-The BuMoChi library for live animation and sound synthesis control via webcam is available here: 
-
-https://github.com/iani/bumochi
-
-The BuMoChi library uses XR-Animator, a free tool that works with laptop webcams or any other external webcam for motion capture, and Godot engine, a free gaming engine for animation.  It provides python scripts for converting XR-Animator VMC bundles into single OSC messages.  It also provides Godot projects tuned and tested for working with these OSC messages, and (under development) tools for connecting, recording and configuring the playback of mocap data.  
-
-You can use this library to connect to SuperCollider, but also to any other OSC capable sound making software, such as PD or Max/MSP.  
-
 # Examples
 
 The following are examples of performances and rehearsals from the proposer of this challenge, Iannis Zannos.  These are art projects in a contemporary/electronic music context.  These examples show how to use movement data to control sound in performances.  You are welcome to develop your own style which can be radically different from that of the examples below.  
@@ -85,3 +75,13 @@ https://youtu.be/6sJYkYKONKo?list=PL1yHvCYr9Bvb-1PIrIZyGlU0EZlpQdjLB
 Controlling sound in SuperCollider from live animation data on Godot/Rokoko
 
 (Corfu-Athens, 2025)
+
+# Starter kit: Webcam Motion Capture Software, SuperCollider, Godot. BuMoChi library
+
+The BuMoChi library for live animation and sound synthesis control via webcam is available here: 
+
+https://github.com/iani/bumochi
+
+The BuMoChi library uses XR-Animator, a free tool that works with laptop webcams or any other external webcam for motion capture, and Godot engine, a free gaming engine for animation.  It provides python scripts for converting XR-Animator VMC bundles into single OSC messages.  It also provides Godot projects tuned and tested for working with these OSC messages, and (under development) tools for connecting, recording and configuring the playback of mocap data.  
+
+You can use this library to connect to SuperCollider, but also to any other OSC capable sound making software, such as PD or Max/MSP.  
